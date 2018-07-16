@@ -1,2 +1,63 @@
-t
+body{
+    background: rgb(0, 0, 0);;
+}
+#base{
+    background: rgb(0, 0, 0);
+    margin-left: 40%;
+    margin-top: 0%;
+}
+.clock{
+   width: 220px;
+   height: 80px;
+   font-family: Orbitron;
+   font-size: 70px;
+   text-align: center;
+   color: red;
+   margin-left:44%;
+}
+.board{
+   width: 120px;
+   height: 80px;
+   font-family: Orbitron;
+   font-size: 70px;
+   text-align: center;
+   color: rgb(133, 0, 133);
+   margin-left: 15%;
+   margin-bottom: 20%;
+}
+button{
+    height: 80px;
+    width: 80px;
+   
+}
+#btn1{
+    margin-left: 35%;
+    font-size: 40px;
+}
+#btn2{
+    
+    font-size: 40px;
+}
+#btn3{
+    margin-left: 10%;
+    font-size: 40px;
+}
+#btn4{
+    
+    font-size: 40px;
+}
+#board1{
+    
+    margin-left: 40%;
+}
+#board3{
+   width: 120px;
+   height: 80px;
+   font-family: Orbitron;
+   font-size: 70px;
+   text-align: center;
+   color: rgb(133, 0, 133);
+   margin-left: 45%;
+   margin-bottom: 20%;
+}
 
